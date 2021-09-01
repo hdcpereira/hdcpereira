@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hdcpereira&layout=compact&hide=HTML,javascript,css,scss,cmake)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages with Jupyter](https://github-readme-stats.vercel.app/api/top-langs/?username=hdcpereira&layout=compact&hide=HTML,javascript,css,scss,cmake)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages w\o Jupyter](https://github-readme-stats.vercel.app/api/top-langs/?username=hdcpereira&layout=compact&hide=jupyter%20notebook,HTML,javascript,css,scss,cmake)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **hdcpereira/hdcpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
