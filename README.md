@@ -1,6 +1,6 @@
 ### Hello there
 
-My name is Hugo Pereira (He/Him) , I'm currently an undergraduate physics student at the University of São Paulo, Brazil. I'm interested in nuclear physics (mainly Ion Beam Analysis e.g. PIXE), particle acelereators, data science, data analysis and educational technologies. My main programming language is `Python` (and its libraries: Pandas, Matplotlib, Numpy, Scipy) with experience using SQL (mostly, MySQL) and parallel programing with `C++`. I have been studying `Julia`, Docker, Grafana and its applications.
+My name is Hugo Pereira, I'm currently an undergraduate physics student at the University of São Paulo, Brazil. I'm interested in nuclear physics (mainly Ion Beam Analysis e.g. PIXE), particle acelereators, data science, data analysis and educational technologies. My main programming language is `Python` (and its libraries: Pandas, Matplotlib, Numpy, Scipy) with experience using SQL (mostly, MySQL) and parallel programing with `C++`. I have been studying `Julia`, Docker, Grafana and its applications.
 
 I've also published some few things in the recent years, you can find them here: 
 
